@@ -267,3 +267,22 @@ h6,
 .testimonial-carousel .owl-nav .owl-prev:hover {
     background: $primary;
 }
+
+/* STYLE IMAGES */
+.container {
+  position: relative;
+  text-align: center;
+  font-family: "Monaco", "Courier New", monospace;
+  font-size: 100px;
+  color: white;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 100%
+}
+img {
+  filter: brightness(60%);
+}
