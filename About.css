@@ -1,4 +1,8 @@
- .u-section-1 {
+html,body {
+ overflow-x: hidden;
+}
+
+.u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/nycTriathlon.jpg");
 }
 
