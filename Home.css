@@ -1,5 +1,5 @@
-html,body {
- overflow-x: hidden;
+html, body {
+    overflow: initial;
 }
 
 .u-section-1 {
