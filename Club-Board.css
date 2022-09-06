@@ -1,4 +1,13 @@
- .u-section-1 {
+.x-nav-wrap.mobile {
+    background-color: #000;
+}
+
+.x-navbar .mobile .x-nav li a {
+    padding-left: 10px;
+    paddig-right: 10px;
+}
+
+.u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/299491142_3215272075469011_4539727105514793628_n.jpg");
   background-position: 50% 50%;
 }
