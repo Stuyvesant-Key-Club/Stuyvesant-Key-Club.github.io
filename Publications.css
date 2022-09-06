@@ -1,5 +1,5 @@
-html,body {
- overflow-x: hidden;
+.scroller {
+  overflow-x: hidden;
 }
 
 .u-block-913e-2 {
