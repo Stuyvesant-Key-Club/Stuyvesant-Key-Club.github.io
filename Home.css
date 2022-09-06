@@ -1,5 +1,5 @@
-html, body {
-    overflow: initial;
+.scroller {
+  overflow-x: hidden;
 }
 
 .u-section-1 {
