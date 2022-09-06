@@ -2,7 +2,7 @@
   overflow-x: hidden;
 }
 
-.u-section-1 {
+ .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/nycTriathlon.jpg");
 }
 
@@ -751,6 +751,15 @@
     margin-right: 50px;
   }
 
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 196px;
+  }
+
+  .u-section-4 .u-text-4 {
+    width: auto;
+    margin-top: 30px;
+  }
+
   .u-section-4 .u-layout-cell-3 {
     min-height: 100px;
   }
@@ -764,9 +773,14 @@
     --animation-custom_in-translate_y: 300px;
   }
 
+  .u-section-4 .u-layout-cell-5 {
+    min-height: 175px;
+  }
+
   .u-section-4 .u-text-10 {
     --animation-custom_in-translate_x: 0px;
     --animation-custom_in-translate_y: 300px;
+    margin-top: 17px;
   }
 } .u-section-5 {
   background-image: none;
